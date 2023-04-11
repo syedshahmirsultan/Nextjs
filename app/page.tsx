@@ -8,16 +8,16 @@ export default function App(){
     return(
       <Box>
       <Box className="frontend">
-        <Image className="president" src="/images/president2.jpg" alt="picture of president" height='670'
-    width='370'/>
+      <Link href="https://en.wikipedia.org/wiki/Arif_Alvi"><Image className="president" src="/images/president2.jpg" alt="picture of president" height='670'
+    width='370'/></Link>
         <Heading className='heading1'>Certified Web 3.0 and Metaverse Developer: A Nationwide Program in Karachi, Lahore, Islamabad, and Peshawar</Heading>
         <Text className='text2'>Getting Ready for the Next Generation and Future of the Internet - Join a 13 Trillion Dollar Industry with 5 Billion Users</Text>
       </Box><Box className='secBox'>
         <Heading className='headings'>The Program in a Nutshell: Earn While You Learn</Heading>
-        <Text as='p' className='earn' color='black'>In this brand-new type of curriculum, students will learn how to make money and boost exports in the classroom and will begin doing so within six months of the program's beginning. It resembles a cross between a corporate venture and an educational project.
+        <Box className="wrap"> <Text as='p' className='earn' color='black'>In this brand-new type of curriculum, students will learn how to make money and boost exports in the classroom and will begin doing so within six months of the program's beginning. It resembles a cross between a corporate venture and an educational project.
 </Text>
 <Image className='dollar' src='/images/dollar.jpg' alt="picture of dollar" height='350' width='350'/>
-<Heading className='heading2'>Program of Studies</Heading>
+</Box><Heading className='heading2'>Program of Studies</Heading>
 <Text as='p' className='program'>This curriculum is intended for beginners who want to learn software development from the ground up. The first three quarters are shared by all specialties and are dedicated to studying Object-Oriented Programming and cutting-edge Full-Stack Web 2.0 development. It is going to be a fifteen-month-long hybrid program that includes both onsite and online classes and is divided into five quarters of 13 weeks each. The emphasis will be on hands-on learning by educating students to produce projects. To accommodate everyone, courses will be held primarily on weekends or after 6:00 p.m. (Pakistan Time) on weekdays. It employs a hybrid teaching format, with core onsite classes complemented by online Zoom laboratories and recorded videos.
 </Text>
 <Image className='laptop' src="/images/laptop.jpg" alt='picture of laptop' height='500' width='650'/>
