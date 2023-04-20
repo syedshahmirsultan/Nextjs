@@ -1,5 +1,3 @@
-'use client';
-import { Button,Text } from "@chakra-ui/react";
 import Link from 'next/link'
 
 export default function ButtonsFront(){
@@ -11,7 +9,7 @@ export default function ButtonsFront(){
             About</Link>
             <Link  className="b3" href='/Faculty' >
             Faculty</Link><div className="container">
-            <Text  className="b4">Courses</Text>
+            <text  className="b4">Courses</text>
             <div className="dropdown">
             <Link className="link" href="/Web3">Web 3.0 and Metaverse developer</Link> 
                  <Link className="link" href="/Artificial">Artificial Intelligence</Link> 
@@ -22,6 +20,6 @@ export default function ButtonsFront(){
             </div>
                 
         </div>
-        <Button className="piaic"><Link className="piaicweb" href="https://www.piaic.org" >Apply</Link></Button></div>
+        <button className="piaic"><Link className="piaicweb" href="https://www.piaic.org" >Apply</Link></button></div>
     )
 }
