@@ -23,15 +23,15 @@
 
 .secBox{
     background-color:whitesmoke;
-    height:2800px;
+    height:2500px;
     width:100%;
     margin-top:-50px;
     padding-left:30px;
 }
 
 .dollar{
-    height:150px;
-    width:150px;
+    height:250px;
+    width:350px;
     padding-top:30px;
     padding-right:30px;
 }
@@ -138,8 +138,8 @@ padding-top:30px;
 .laptop{
     height:300px;
     width:500px;
-    margin-left:700px;
-    margin-top:-1000px;
+    margin-left:800px;
+    margin-top:-1400px;
 }
 
 .links{
@@ -466,23 +466,24 @@ color:white;
 }
 
 .about{
-    height:1800px;
+    height:2100px;
     width:100%;
     background-color:rgba(211, 211, 211, 0.555);
 }
 .PRESIDENTIMG{
-    margin-left: 700px;
+    margin-left:500px;
     margin-top: 30px;
+    rounded:full:
     
 }
 
 .Name{
-    margin-left: 700px;
+    margin-left:500px;
 }
 .TEXT1{
     margin-left:50px ;
     margin-top: 50px;
-    font-size:30px ;
+    font-size:40px ;
 }
 
 .end{
