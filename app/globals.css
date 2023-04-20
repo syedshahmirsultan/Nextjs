@@ -289,7 +289,7 @@ margin-left: 300px;
     border-radius:7px;
     background-color:rgb(94, 133, 18);
     color:white;
-    margin-left: 1250px;
+    margin-left: 750px;
     margin-top:-120px;
     border-color:rgb(214, 144, 13);
 }
@@ -325,16 +325,16 @@ color:white;
 }
 
 .saylani{
-    margin-left: 900px;
+    margin-left: 700px;
     margin-top:-160px;
-    height:200px;
-    width: 450px;
+    height:250px;
+    width: 500px;
 }
 .panacloud{
-    margin-left:500px;
+    margin-left:200px;
     margin-top:60px;
-    height:150px;
-    width:200px;
+    height:200px;
+    width:400px;
 }
 
 .partners{
@@ -495,16 +495,16 @@ color:white;
 }
  
 .pana{
-    height:50px;
-    width:90px;
-    margin-left:1570px;
+    height:800px;
+    width:160px;
+    margin-left:1200px;
     margin-top:-13px;
     cursor:pointer;
 } 
 .powered{
     color:aliceblue;
-    font-size:27px;
-    margin-left:1540px;
+    font-size:37px;
+    margin-left:1190px;
     margin-top: 3px;
 }
 
