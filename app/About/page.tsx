@@ -5,7 +5,7 @@ import Image from "next/image";
 export default function About(){
     return(
         <Box className="about">
-       <Image className="PRESIDENTIMG" src="/images/piaica.jpg" alt='president pic' height={150} width={150}/>
+       <Image className="PRESIDENTIMG" src="/images/piaica.jpg" alt='president pic' height={200} width={200}/>
        <Heading className="Name" as="h1" textColor={'black'}>Dr. Arif Alvi</Heading>
        <Text textAlign={'center'} textColor={'gray'} fontSize="20px">President of the Islamic Republic of Pakistan</Text>
       <div className="TEXT1"><Text color={'black'} fontSize="30px">Dr. Arif Alvi was sworn in as the 13th President of Islamic Republic of Pakistan on 9th September 2018.</Text>
