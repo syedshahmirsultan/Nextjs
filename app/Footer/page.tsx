@@ -8,7 +8,7 @@ export default function Footer(){
         <Box>
     <Box className='foot'>
         <Heading className="partners">Strategic Partners</Heading>
-        <Image className="panacloud" src="/images/panacloud1.jpg" alt='panacloud logo'/>
+        <Image className="panacloud" src="/images/panacloud.jpg" alt='panacloud logo'/>
         <Image className="saylani" src="/images/saylani.jpg" alt='saylani logo'/></Box>
         <Box className="footEnd">
         <Text className="NAVIGATION">Navigation</Text>
