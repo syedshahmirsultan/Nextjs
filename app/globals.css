@@ -217,7 +217,7 @@ margin-left: 300px;
     color:rgb(35, 45, 133);
     cursor: pointer;
     padding-left:40px;
-    margin-top:-30px;
+    margin-top:-40px;
    
    
 }
@@ -261,7 +261,7 @@ margin-left: 300px;
     background-color:darkseagreen;
     position: absolute;
     display: none;
-    margin-top:3px;
+    margin-top:1px;
 }
 
 .link{
