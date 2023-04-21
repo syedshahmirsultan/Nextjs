@@ -216,9 +216,9 @@ margin-left: 300px;
     text-decoration: inherit;
     color:rgb(35, 45, 133);
     cursor: pointer;
-    margin-left:380px;
-    margin-top:-80px;
-    text-align:right;
+    padding-left:40px;
+   
+   
 }
 .b4:hover{
     color:rgb(8, 5, 58);
@@ -290,8 +290,7 @@ margin-left: 300px;
     border-radius:7px;
     background-color:rgb(94, 133, 18);
     color:white;
-    margin-left: 750px;
-    margin-top:-320px;
+    margin-left:150px;
     border-color:rgb(214, 144, 13);
 }
 
@@ -1843,7 +1842,7 @@ padding-right:500px;
    font-size: 69px;
    margin-left: 50px;
    padding-right:110px;
-   margin-top: -550px;
+   margin-top: -700px;
 }
 .neth2{
    color:darkblue;
