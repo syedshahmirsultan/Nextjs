@@ -9,7 +9,7 @@ export default function ButtonsFront(){
             About</Link>
             <Link  className="b3" href='/Faculty' >
             Faculty</Link><div className="container">
-            <text  className="b4" marginTop="-10px">Courses</text>
+            <text  className="b4" marginTop="-30px">Courses</text>
             <div className="dropdown">
             <Link className="link" href="/Web3">Web 3.0 and Metaverse developer</Link> 
                  <Link className="link" href="/Artificial">Artificial Intelligence</Link> 
