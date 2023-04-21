@@ -217,6 +217,7 @@ margin-left: 300px;
     color:rgb(35, 45, 133);
     cursor: pointer;
     padding-left:40px;
+    margin-top:-15px;
    
    
 }
@@ -257,11 +258,10 @@ margin-left: 300px;
 .dropdown{
     height: auto;
     width:480px;
- 
     background-color:darkseagreen;
     position: absolute;
     display: none;
-    margin-top:-100px;
+    margin-top:50px;
 }
 
 .link{
@@ -466,14 +466,14 @@ color:white;
 }
 
 .about{
-    height:3000px;
+    height:3300px;
     width:100%;
     background-color:rgba(211, 211, 211, 0.555);
 }
 .PRESIDENTIMG{
     margin-left:500px;
     margin-top: 30px;
-    border-radius:50%;
+    border-radius:30%;
     
 }
 
@@ -496,15 +496,15 @@ color:white;
 }
  
 .pana{
-    height:70px;
-    width:140px;
+    height:60px;
+    width:120px;
     margin-left:1170px;
     margin-top:-25px;
     cursor:pointer;
 } 
 .powered{
     color:aliceblue;
-    font-size:30px;
+    font-size:35px;
     margin-left:1170px;
     margin-top: 3px;
 }
@@ -1889,7 +1889,7 @@ padding-right:500px;
 }
 .genh{
    font-size:83px;
-margin-top:-600px;
+margin-top:-750px;
 color:white;
 padding-right:1000px;
 margin-left:70px;
@@ -1926,7 +1926,7 @@ margin-left:70px;
    margin-left: 50px;
 }
 .cloudf{
-   height:1100px;
+   height:900px;
    width:100%;
    background-color: #273c49;
 }
