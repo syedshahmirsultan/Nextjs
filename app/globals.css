@@ -217,6 +217,7 @@ margin-left: 300px;
     color:rgb(35, 45, 133);
     cursor: pointer;
     padding-left:40px;
+    margin-top:20px;
    
    
 }
@@ -257,12 +258,11 @@ margin-left: 300px;
 .dropdown{
     height: auto;
     width:480px;
-    margin-top:-20px;
+ 
     background-color:darkseagreen;
     position: absolute;
     display: none;
-    margin-left: 420px;
-    margin-top:-40px;
+    margin-top:-60px;
 }
 
 .link{
@@ -290,7 +290,7 @@ margin-left: 300px;
     border-radius:7px;
     background-color:rgb(94, 133, 18);
     color:white;
-    margin-left:150px;
+    margin-left:130px;
     border-color:rgb(214, 144, 13);
 }
 
