@@ -30,10 +30,10 @@
 }
 
 .dollar{
-    height:250px;
+    height:350px;
     width:350px;
-    padding-top:30px;
-    padding-right:30px;
+    padding-top:10px;
+    padding-right:100px;
 }
 .wrap{
    display:flex;
@@ -136,10 +136,10 @@ padding-top:30px;
 
 }
 .laptop{
-    height:300px;
+    height:500px;
     width:500px;
     margin-left:800px;
-    margin-top:-1400px;
+    margin-top:-2000px;
 }
 
 .links{
