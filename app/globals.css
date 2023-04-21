@@ -331,10 +331,10 @@ color:white;
     width: 600px;
 }
 .panacloud{
-    margin-left:100px;
-    margin-top:60px;
-    height:150px;
-    width:300px;
+    margin-left:200px;
+    margin-top:30px;
+    height:200px;
+    width:400px;
 }
 
 .partners{
@@ -496,8 +496,8 @@ color:white;
 }
  
 .pana{
-    height:40px;
-    width:80px;
+    height:70px;
+    width:140px;
     margin-left:1200px;
     margin-top:-13px;
     cursor:pointer;
@@ -654,14 +654,14 @@ height:100%
  }
  .metah{
     margin-left:30px;
-    margin-top:-900px;
+    margin-top:-500px;
     font-size: 69px;
     padding-right:1100px;
     color:peru;
  }
 
  .meta1{
-    height:10900px;
+    height:11300px;
     width:100%;
     background-color:#e6d9de;
  }
@@ -670,7 +670,7 @@ height:100%
     color:darkblue;
     text-align:left;
     font-size:37px;
-    margin-top:130px;
+    margin-top:330px;
     margin-left:50px;
  }
  .metab{
@@ -1536,9 +1536,8 @@ height:100%;
 width:100%;
 }
 .Ioth{
-
 color: white;
-margin-top:-1200px;
+margin-top:-800px;
 font-size:89px;
 padding-right:1200px;
 margin-left:50px;
@@ -1858,9 +1857,9 @@ padding-right:500px;
    width:100%;
 }
 .netpic{
-   height:auto;
+   height:100%
    width:auto;
-   margin-left:570px;
+   margin-left:370px;
    
 }
 .net3{
