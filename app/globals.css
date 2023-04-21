@@ -33,7 +33,7 @@
     height:350px;
     width:350px;
     padding-top:10px;
-    padding-right:100px;
+    padding-right:250px;
 }
 .wrap{
    display:flex;
@@ -139,7 +139,7 @@ padding-top:30px;
     height:500px;
     width:500px;
     margin-left:800px;
-    margin-top:-2000px;
+    margin-top:-2200px;
 }
 
 .links{
@@ -195,6 +195,7 @@ padding-top:30px;
     font-size: 35px;
  margin-top: -80px;
 margin-left: 300px;
+ display:flex;
 }
 .b1{
     text-decoration: none;
@@ -498,8 +499,8 @@ color:white;
 .pana{
     height:70px;
     width:140px;
-    margin-left:1200px;
-    margin-top:-13px;
+    margin-left:1700px;
+    margin-top:-5px;
     cursor:pointer;
 } 
 .powered{
@@ -654,7 +655,7 @@ height:100%
  }
  .metah{
     margin-left:30px;
-    margin-top:-500px;
+    margin-top:-650px;
     font-size: 69px;
     padding-right:1100px;
     color:peru;
@@ -1858,8 +1859,8 @@ padding-right:500px;
 }
 .netpic{
    height:100%;
-   width:auto;
-   margin-left:370px;
+   width:100%;
+   
    
 }
 .net3{
